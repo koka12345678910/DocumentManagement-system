@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d77bb71-4add-4a72-8f60-8d1e86f73a32" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/ftp_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/ocr_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/search_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ftp_setup_instructions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vsftpd.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +48,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/.venv" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.venv" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -91,7 +82,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/bot.py</url>
+          <url>file://$PROJECT_DIR$/bot.py</url>
           <line>214</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
